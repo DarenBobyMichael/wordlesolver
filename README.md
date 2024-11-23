@@ -12,7 +12,7 @@ This program is a helper tool for word puzzle games. It narrows down possible so
     Suggested starting words: ADIEU, SLATE, or other vowel-rich options.
 
     Enter Feedback:
-    After each guess, input feedback based on the puzzle's response:
+    After each guess, input feedback based on the puzzle response:
         1<letter>: Green (correct position).
         0<letter>: Yellow (present but wrong position).
         <letter>: Black (not in the word).
