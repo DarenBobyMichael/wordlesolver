@@ -1,4 +1,4 @@
-# WORDLE SOLVER
+# WORDLE SOLVER CLI
 
 This program is a helper tool for word puzzle games. It narrows down possible solutions based on your feedback and provides suggestions for the next guess.
 
